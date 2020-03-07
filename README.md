@@ -1,4 +1,10 @@
 # data-science-projects
 A list of my data science projects 
 
-Lyft Data Challenge: Missing 1 CSV file "ride_timestamps.csv"
+## Lyft Data Challenge: Project driver's lifetime to Lyft 
+* Dataset: Driver dataset from Lyft Data Challenge
+* Tools: Pandas, Numpy, Matplotlib, Python 
+
+## Lyft Data Challenge: Project driver's lifetime to Lyft 
+* Dataset: College salaries: Where it pays to attend college (https://www.kaggle.com/wsj/college-salaries) 
+* Tools: Pandas, Numpy, Matplotlib, Seaborn, Python 
