@@ -2,7 +2,8 @@
 A list of my data science projects 
 
 ## Lyft Data Challenge: Project driver's lifetime to Lyft 
-* Dataset: Driver dataset from Lyft Data Challenge
+* Description: An analysis to predict the projected lifetime value of Lyft drivers to the company
+* Dataset: Driver dataset from Lyft Data Challenge. Available in the repo
 * Tools: Pandas, Numpy, Matplotlib, Python 
 
 ## College Salaries 
